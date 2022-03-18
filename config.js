@@ -14,8 +14,8 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6282179163895': { // put your number here
-    name: 'Andi (Testing Botz',
+  '6281223918622': { // put your number here
+    name: 'Ryoofc (Testing Botz',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
@@ -27,8 +27,8 @@ global.Owner = {
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
-global.mods = ['13479805233'] // Want some help?
-global.prems = [] // Premium user has unlimited limit
+global.mods = ['6288215110787'] // Want some help?
+global.prems = ['6288215110787','6287830949637','6281223918622'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
@@ -54,8 +54,8 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Copyright Lord Botz'
-global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©AmmarBN '
+global.packname = 'Copyright HanzBOTZ'
+global.author = 'Lord Botz Best Bot\nBattry: false\nCopyright By ©HanzBOTZ '
 
 global.multiplier = 39 // The higher, The harder levelup
 
