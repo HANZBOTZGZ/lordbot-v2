@@ -1,6 +1,6 @@
 let handler  = async (m, { conn, usedPrefix }) => {
   conn.reply(m.chat, `
-*HanzBOTZ Menggunakan Script*
+*Lord Botz Menggunakan Script*
 github.com/AmmarBN/lordbot-aq-tes
 _*Jangan Lupa Follow Sama Kasi Star Ya kak*_
 
