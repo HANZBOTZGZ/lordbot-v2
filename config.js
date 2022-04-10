@@ -14,21 +14,21 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6281223918622': { // put your number here
-    name: 'Ryoofc',
+  '-': { // put your number here
+    name: 'Kosong',
     isDev: true, // if true this number will send if bot have bug and developer mode true
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287708773367': {
-    name: 'Lord Botz',
+  '-': {
+    name: 'Kosong',
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
   '13479805233': {} // ignore if you don't want anything, like name dll
 }
 global.mods = ['6288215110787'] // Want some help?
-global.prems = ['6288215110787','6287830949637','6281223918622'] // Premium user has unlimited limit
+global.prems = ['6288215110787','6287830949637'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com',
