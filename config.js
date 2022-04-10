@@ -8,7 +8,7 @@ global.Owner = {
     isReport: true, // if true this number will send if user use command /report or /join
     isCreator: true // if true this number will send if user use command /owner or /creator
   },
-  '6287830849637': { // put your number here
+  '6287830949637': { // put your number here
     name: 'HanzBOTZ 2',
     isDev: true,
     isReport: true, // if true this number will send if user use command /report or /join
@@ -54,7 +54,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'HanzBOTZ'
+global.packname = 'ʜᴀɴᴢ ᴏғᴄ©️'
 global.author = '©HanzBOTZ '
 
 global.multiplier = 39 // The higher, The harder levelup
